@@ -6,7 +6,7 @@ This project will continue to be updated for the forseeable future, and almost a
 # How do I...
 
 ## Use this stack for my own list?
-First, you'll want a hosting provider. I recommend [Vercel](https://vercel.com/), [Render](https://render.com/), or [Cyclic](https://app.cyclic.sh/).
+First, you'll want a hosting provider. I recommend [Vercel](https://vercel.com/) or [Cyclic](https://app.cyclic.sh/).
 
 A `vercel.json` file is included in the repository for easy setup.
 
