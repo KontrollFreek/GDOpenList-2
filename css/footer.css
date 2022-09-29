@@ -1,0 +1,29 @@
+footer {
+    font-size: 60%;
+    text-align: center;
+    padding: 30px;
+    background-color: #111;
+    color: #ddd;
+    box-shadow: 0 -1px 10px 6px #111;
+    position: relative;
+}
+
+footer > * {
+    margin: 5px;
+}
+
+footer .bottom {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 15px;
+}
+
+footer .bottom span {
+    display: flex;
+    flex-direction: column;
+}
+
+footer a {
+    color: var(--accent) !important;
+}

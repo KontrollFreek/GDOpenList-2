@@ -1,0 +1,14 @@
+{
+  "name": "gdol2",
+  "version": "1.0.0",
+  "description": "A new take on the GDOL, originally stemming from the penis list website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KontrollFreek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
